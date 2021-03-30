@@ -1,0 +1,29 @@
+#main{
+    width: 800px;
+    background-image: url(../images/fon_bg.jpg);
+    background-repeat: repeat-y;
+}
+#header{
+    width: 800px;
+    height: 155px;
+    background-image: url(../images/header.jpg);
+    background-repeat: no-repeat;
+}
+menu1{
+    width: 800px;
+    height: 35px;
+    background-image: url(../images/menu1.jpg);
+    background-repeat: no-repeat;
+}
+menu2{
+    width: 800px;
+    height: 36px;
+    background-image: url(../images/menu2.jpg);
+    background-repeat: no-repeat;
+}
+menu3{
+    width: 800px;
+    height: 72px;
+    background-image: url(../images/menu3.jpg);
+    background-repeat: no-repeat;
+}
